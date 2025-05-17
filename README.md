@@ -14,23 +14,23 @@ This is a simple React application that performs **CRUD (Create, Read, Delete)**
 ---
 
 ##  Folder Structure
-├── src/
-│ ├── components/
-│ │ ├── ArticleForm.jsx
-│ │ └── ArticleList.jsx
-│ │
-│ ├── services/
-│ │ └── articleService.js
-│ │
-│ ├── firebaseConfig.js
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── app.css
-│
-├── .gitignore
-├── package.json
-├── README.md
-└── vite.config.js
+- ├── src/
+- │ ├── components/
+- │ │ ├── ArticleForm.jsx
+- │ │ └── ArticleList.jsx
+- │ │
+- │ ├── services/
+- │ │ └── articleService.js
+- │ │
+- │ ├── firebaseConfig.js
+- │ ├── App.jsx
+- │ ├── main.jsx
+- │ └── app.css
+- │
+- ├── .gitignore
+- ├── package.json
+- ├── README.md
+- └── vite.config.js
 
 Install dependencies:
 ```bash
